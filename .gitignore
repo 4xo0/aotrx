@@ -1,0 +1,17 @@
+build/
+out/
+dump/
+test_dump/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+__pycache__/
+*.pyc
+*.dmp
